@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Harapan Mata Kuliah Basis Data Kedepannya",
+    "content": "Sebagai seorang mahasiswa, saya berharap mata kuliah Database bisa memberikan pemahaman yang nyata tentang bagaimana data disusun dan digunakan dalam sistem dunia nyata...",
+    "image": "https://bitlaunch.io/blog/content/images/2023/08/gaming-server.jpg",
+    "date": "2025-09-29",
+    "watermark": "Nzy_Zack"
+  },
+  {
+    "id": 2,
+    "title": "Apa Itu Basis Data?",
+    "content": "Database adalah kumpulan data terstruktur yang tersimpan dalam sistem komputer. Data ini bisa diakses, dikelola, dan dimanipulasi dengan mudah menggunakan perangkat lunak khusus bernama Database Management System (DBMS)...",
+    "image": "https://cdn.servermania.com/images/w_750,h_300,c_scale/f_webp,q_auto:best/v1681845907/blog/What-is-a-Game-Server-4/What-is-a-Game-Server-4.jpg",
+    "date": "2025--09-29",
+    "watermark": "Nzy_Zack"
+  },
+  {
+    "id": 3,
+    "title": "Apa Itu Conceptual Model?",
+    "content": "Conceptual Model adalah tahap paling awal di mana kita menentukan data apa saja yang penting (entitas) dan bagaimana data itu saling berhubungan (relasi)...",
+    "image": "https://www.easypc.io/wp-content/uploads/2023/12/img/game-hosts/cost/mmo-server.jpg",
+    "date": "2025-09-29",
+    "watermark": "Nzy_Zack"
+  },
+  {
+    "id": 4,
+    "title": "Apa itu Physical Model",
+    "content": "Physical Model menjelaskan tabel fisik, tipe data, index, struktur file, hingga cara data diakses oleh sistem. Dengan kata lain, ini blueprint teknis yang menjadikan rancangan konseptual bisa benar-benar berjalan di sistem nyata...",
+    "image": "https://computory.com/wp-content/uploads/2020/06/cpu-gaming-terbaik-2020.jpg",
+    "date": "2025-09-29",
+    "watermark": "Nzy_Zack"
+  },
+  {"id": 5,
+    "title": "Tata Cara Installasi DBMS dan MySQL menggunakan Laragon",
+    "content": "<p>Link Video Tutorial: <a href='https://youtu.be/NKLUGB22DT0' target='_blank'>https://youtu.be/NKLUGB22DT0</a></p><p>Dalam model ERD (Entity Relationship Diagram), entitas mewakili objek nyata atau konsep seperti mahasiswa, buku, atau produk, yang memiliki atribut sebagai ciri khasnya (misalnya ID, nama, alamat) dengan satu atribut utama sebagai primary key. Relasi menggambarkan hubungan antar entitas, seperti 1:1, 1:N, atau M:N, dan dapat memiliki atribut sendiri bila hubungan tersebut perlu dicatat dalam basis data...</p>...",
+    "image": "https://www.club386.com/wp-content/uploads/2022/10/msi-4090-feature-696x447.jpg",
+    "date": "2025-10-06",
+    "watermark": "Nzy_Zack"
+  },
+  {"id": 6,
+    "title": "Apa Itu Attribute, Entitas, dan Relasi dalam ERD?",
+    "content": "Dalam model ERD, entitas merepresentasikan objek nyata atau konsep relevan dalam basis data dan digambarkan sebagai persegi panjang. Setiap entitas memiliki atribut (elips) untuk menjelaskan cirinya, dengan satu atribut sebagai primary key. Relasi (belah ketupat) menunjukkan hubungan antar entitas, seperti 1:1, 1:N, atau M:N, dan dapat memiliki atribut sendiri. ERD digunakan untuk merancang struktur basis data konseptual agar entitas, atribut, dan relasi tersusun logis sebelum diterapkan secara fisik...",
+    "image": "https://www.club386.com/wp-content/uploads/2022/10/msi-4090-feature-696x447.jpg",
+    "date": "2025-10-06",
+    "watermark": "Nzy_Zack"
+  }
+]
